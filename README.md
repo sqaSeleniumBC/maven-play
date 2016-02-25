@@ -1,11 +1,9 @@
-# Basic Automation Project
+# Maven Automation Project
 
- Basic Java Selenium Automation Project
- * QA
- * Java
- * Maven
-  
- 
-
+Basic Maven Automation Project
+* QA
+* Java
+* Maven
+* Properties
  
  [Jean-francois Nepton](http://sqasolution.com)
